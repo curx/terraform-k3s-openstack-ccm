@@ -1,0 +1,8 @@
+.deploy.*
+.terraform
+clouds.yaml
+remotestate.env
+remotestate.tf
+secure.yaml
+terraform.tfstate.d
+terraform.tfstate*
